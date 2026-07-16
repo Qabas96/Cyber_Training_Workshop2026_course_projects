@@ -1,5 +1,9 @@
 This folder contains all of the files relevant to performing the ab initio multiple spawning dynamics in PySPAWN
 
+Included is the mpg file of an example trajectory across the 750 fs. There are also 2 png of the plots of dynamics data
+
+IC_List.txt has the list of the random seeds used to generate each initial condition
+
 There are individual directories for each initial condition
 
 start.py is the input file of the trajectory. It has all of the dynamics set up details such as timestep, legnth of trajectory, and other details of the calculation
